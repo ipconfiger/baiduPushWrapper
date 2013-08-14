@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: baiduPushWrapper
+Version: 0.0.0.1.pre
+Summary: Wrapper of baidu push api
+Home-page: https://github.com/ipconfiger/baiduPushWrapper
+Author: Alexander.Li
+Author-email: superpowerlee@gmail.com
+License: LGPL
+Description: UNKNOWN
+Keywords: baidu push
+Platform: UNKNOWN
